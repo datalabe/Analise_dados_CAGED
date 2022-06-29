@@ -57,7 +57,7 @@ A base final de análise que este relatório se dedica ficou com 25.716.831 regi
                                   
 
 
-:nerd_face: | ESTAGIÁRIA DE ANALISE DE DADOS: [Andréia Luiza Mattos](https://github.com/SamanthaReiis)
+:nerd_face: | ESTAGIÁRIA DE ANALISE DE DADOS: [Andréia Luiza Mattos](https://github.com/ANDREIALUIZAFM)
   
 
 ##   Licença
